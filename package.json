@@ -5,13 +5,13 @@
   },
   "author": "Rizart Dokollari",
   "name": "7daystodie_mod_out_of_my_face_interaction_prompt",
-  "version": "1.0.0",
   "license": "GPL-3.0",
   "devDependencies": {
     "7z-bin": "Nexus-Mods/7z-bin",
-    "canvas": "^2.11.2",
     "npm-check": "^6.0.1",
-    "prettier": "^3.3.3"
+    "prettier": "^3.3.3",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
   },
   "scripts": {
     "build": "node scripts/build.js",
