@@ -1,3 +1,4 @@
 <out-of-my-face-interaction-prompt>
-    <setattribute xpath="//window[@name='interactionPrompt']" name="pos">450,60</setattribute>
+    <setattribute xpath="//window[@name='interactionPrompt']" name="pos">500,60</setattribute>
+    <setattribute xpath="//window[@name='focusedBlockHealth']" name="pos">500,-40</setattribute>
 </out-of-my-face-interaction-prompt>
