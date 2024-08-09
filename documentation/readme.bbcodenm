@@ -1,0 +1,17 @@
+[size=6]7 Days to Die Mod - Out Of My Face Interaction Prompt[/size]
+[url=https://next.nexusmods.com/7daystodie/collections/epfqzi][img]https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://www.nexusmods.com/7daystodie/mods/5720][img]https://img.shields.io/badge/Nexus%20Mod-Out%20Of%20My%20Face%20Interaction%20Prompt%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://github.com/rdok/7daystodie_mod_out_of_my_face_interaction_prompt][img]https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github[/img][/url]
+
+[quote]
+ Moves the interaction prompt to the side, so I can actually see what I am pointing at.
+[/quote]
+[url=https://www.nexusmods.com/7daystodie/mods/5720][img]https://raw.githubusercontent.com/rdok/7daystodie_mod_out_of_my_face_interaction_prompt/main/documentation/showcase.jpg[/img][/url]
+
+[list]
+[*] 7daystodie Version: 1.0 (b333)
+[*] Install with [url=https://www.nexusmods.com/about/vortex/]Vortex[/url].
+[/list]
+[size=5]v1.0.0 09-Aug-24[/size]
+[list]
+[*] Move interaction prompt to right 450 (assuming in pixels)
+[*] Load after any other interface mods for compatibility. E.g. Steel UI.
+[/list]
