@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="OutOfMyFaceInteractionPrompt"/>
+    <DisplayName value="Out Of My Face Interaction Prompt"/>
+    <Version value="1.0.0"/>
+    <Description value="Moves the interaction prompt to the side, so I can actually see what I am pointing at."/>
+    <Author value="Rizarttt"/>
+    <Website value="https://www.nexusmods.com/7daystodie/mods/5720"/>
+</xml>
