@@ -3,7 +3,7 @@
     <Name value="OutOfMyFaceInteractionPrompt"/>
     <DisplayName value="Out Of My Face Interaction Prompt"/>
     <Version value="1.1.0"/>
-    <Description value="Moves the interaction prompt to the side, so I can actually see what I am pointing at."/>
+    <Description value="Moves the health bar of harvested items and interaction prompts for a clearer view and better user experience."/>
     <Author value="Rizarttt"/>
     <Website value="https://www.nexusmods.com/7daystodie/mods/5720"/>
 </xml>
